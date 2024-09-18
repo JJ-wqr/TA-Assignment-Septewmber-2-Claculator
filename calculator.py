@@ -1,0 +1,1 @@
+print(eval(str(input("Please type numbers and add arithmethic operations up to your liking or whatsoever"))))
